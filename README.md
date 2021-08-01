@@ -29,4 +29,4 @@ We're co-creating these openly using Quarto, which builds from what RStudio lear
 - 2018-present: Senior Fellow, National Center for Ecological Analysis and Synthesis, UC Santa Barbara
 - 2018-2019: Mozilla Fellow
 - 2013-2018: Ocean Health Index program lead, National Center for Ecological Analysis and Synthesis, UC Santa Barbara
-- 2012: PhD: Drivers and impacts of Humboldt squid in a changing climate, Stanford University
+- 2012: PhD: Drivers and impacts of Humboldt squid 🦑 in a changing climate, Stanford University
