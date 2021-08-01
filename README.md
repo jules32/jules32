@@ -11,6 +11,9 @@
 
 **Twitter:** [@juliesquid](https://twitter.com/juliesquid)
 
+
+<img align="right" src="https://github.com/jules32/jules32/blob/main/openscapes-welcome-fox.png" width="300">
+
 Hello! I'm a marine ecologist and founded Openscapes to champion kinder, better science in less time. I'm interested in how open source, data science, and environmental research can help us uncover environmental solutions faster by working together as teams and communities. I love to learn and share and am so grateful for all the amazing people working in these spaces.
 
 
