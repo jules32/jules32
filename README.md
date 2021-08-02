@@ -18,7 +18,7 @@ Hello! I'm a marine ecologist and founded Openscapes to champion kinder, better 
 
 ### What am I up to? 
 
-Openscapes focuses on open data science mentorship for research teams. Currently we're focusing on learner-oriented tutorials and documentation to use to teach research teams and onboard mentor teams. 
+Openscapes focuses on open data science mentorship for research teams. Currently we're focusing on learner-oriented tutorials and documentation to teach research teams and onboard mentor teams. 
 
 - 🌄 The [Openscapes Approach Guide](https://openscapes.github.io/approach-guide) is our attempt to codify our approach with Openscapes so that others can use this approach with us or on their own. 
 - 🚀 The [NASA Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook) is a collaboration with our NASA-Openscapes mentor teams to help support NASA Earth science research teams’ migration to the cloud.
