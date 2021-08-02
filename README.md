@@ -23,14 +23,11 @@ Openscapes focuses on open data science mentorship for research teams. Currently
 - 🌄 The [Openscapes Approach Guide](https://openscapes.github.io/approach-guide) is our attempt to codify our approach with Openscapes so that others can use this approach with us or on their own. 
 - 🚀 The [NASA Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook) is a collaboration with our NASA-Openscapes mentor teams to help support NASA Earth science research teams’ migration to the cloud.
 
-We're co-creating these openly using Quarto, which builds from what RStudio learned from RMarkdown and streamlines collaboration across R, Python, and more.
-
 ### Experience
 
 - 2018-present: Founder & Co-Director, Openscapes 
-- 2018-present: Senior Fellow, National Center for Ecological Analysis and Synthesis, UC Santa Barbara
 - 2018-2019: Mozilla Fellow
-- 2013-2018: Ocean Health Index program lead, National Center for Ecological Analysis and Synthesis, UC Santa Barbara
+- 2013-present: Senior Fellow/Ocean Health Index program lead, National Center for Ecological Analysis and Synthesis, UC Santa Barbara
 - 2012: PhD: Drivers and impacts of Humboldt squid 🦑 in a changing climate, Stanford University
 
 Artwork by [@allisonhorst](https://github.com/allisonhorst)
