@@ -27,7 +27,7 @@ Openscapes focuses on open data science mentorship for research teams. Currently
 
 - 2018-present: Founder & Co-Director, Openscapes 
 - 2018-2019: Mozilla Fellow
-- 2013-present: Senior Fellow/Ocean Health Index program lead, National Center for Ecological Analysis and Synthesis, UC Santa Barbara
+- 2013-present: Senior Fellow/Ocean Health Index program lead, NCEAS, UC Santa Barbara
 - 2012: PhD: Drivers and impacts of Humboldt squid 🦑 in a changing climate, Stanford University
 
 Artwork by [@allisonhorst](https://github.com/allisonhorst)
