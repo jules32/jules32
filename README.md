@@ -1,8 +1,7 @@
 
 <h1 align="center"> JULIA STEWART LOWNDES </h1>
 
-<h2 align="center"> Openscapes Founder and Co-Director</h2>
-<h4 align="center"> National Center for Ecological Analysis and Synthesis, UC Santa Barbara </h4>
+<h2 align="center"> Openscapes</h2>
 
   
 **Personal website:** [jules32.github.io](https://jules32.github.io)
