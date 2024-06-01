@@ -8,7 +8,7 @@
 
 **Openscapes website:** [openscapes.org](https://openscapes.org)
 
-**Twitter:** [@juliesquid](https://twitter.com/juliesquid)
+**Bluesky/Mastodon:** @juliesquid
 
 <img align="right" src="https://github.com/jules32/jules32/blob/main/openscapes-welcome-fox.png" width="300">  
 
